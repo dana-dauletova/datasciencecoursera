@@ -1,2 +1,2 @@
 # datasciencecoursera
-first in my life
+not sure if it's right
